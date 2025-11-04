@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DiceRoller_ZorinRoman_Lab4</string>
+    <string name="roll">Roll</string>
 </resources>
